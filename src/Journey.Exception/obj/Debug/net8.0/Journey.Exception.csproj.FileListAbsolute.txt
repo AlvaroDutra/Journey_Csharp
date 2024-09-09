@@ -1,0 +1,14 @@
+N:\workspace\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+N:\workspace\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+N:\workspace\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMenssages.resources
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
+N:\workspace\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.sourcelink.json
